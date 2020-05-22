@@ -1,9 +1,13 @@
-# README
+# First Rails App Setup
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is microverse project that entailed setting up rails application.
 
-Things you may want to cover:
+# Live Site Demo
+[site](https://shrouded-waters-05286.herokuapp.com/)
+
+# Set up Covered
+
+Things  covered:
 
 * Ruby version
 
